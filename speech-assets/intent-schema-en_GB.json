@@ -1,0 +1,49 @@
+{
+   "intents": [
+      {
+         "intent": "AMAZON.CancelIntent"
+      },
+      {
+         "intent": "AMAZON.HelpIntent"
+      },
+      {
+         "intent": "AMAZON.StopIntent"
+      },
+      {
+         "intent": "ConfirmIntent"
+      },
+      {
+         "intent": "FirstVisitIntent"
+      },
+      {
+         "intent": "LastVisitIntent"
+      },
+      {
+         "intent": "NameIntent",
+         "slots": [
+            {
+               "name": "Name",
+               "type": "AMAZON.GB_FIRST_NAME"
+            }
+         ]
+      },
+      {
+         "intent": "SpaceCountIntent"
+      },
+      {
+         "intent": "SpaceWhenIntent",
+         "slots": [
+            {
+               "name": "City",
+               "type": "AMAZON.GB_CITY"
+            }
+         ]
+      },
+      {
+         "intent": "SpaceWhereIntent"
+      },
+      {
+         "intent": "VisitsIntent"
+      }
+   ]
+}

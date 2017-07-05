@@ -1,0 +1,190 @@
+ConfirmIntent do confirmation test
+ConfirmIntent test confirmation
+ConfirmIntent confirmations check
+FirstVisitIntent I first visit
+FirstVisitIntent when I first visit
+FirstVisitIntent did I first visit
+FirstVisitIntent when did I first visit
+FirstVisitIntent we first visit
+FirstVisitIntent when we first visit
+FirstVisitIntent did we first visit
+FirstVisitIntent when did we first visit
+FirstVisitIntent I first chat
+FirstVisitIntent when I first chat
+FirstVisitIntent did I first chat
+FirstVisitIntent when did I first chat
+FirstVisitIntent we first chat
+FirstVisitIntent when we first chat
+FirstVisitIntent did we first chat
+FirstVisitIntent when did we first chat
+FirstVisitIntent I first talk
+FirstVisitIntent when I first talk
+FirstVisitIntent did I first talk
+FirstVisitIntent when did I first talk
+FirstVisitIntent we first talk
+FirstVisitIntent when we first talk
+FirstVisitIntent did we first talk
+FirstVisitIntent when did we first talk
+LastVisitIntent I last visit
+LastVisitIntent when I last visit
+LastVisitIntent did I last visit
+LastVisitIntent when did I last visit
+LastVisitIntent we last visit
+LastVisitIntent when we last visit
+LastVisitIntent did we last visit
+LastVisitIntent when did we last visit
+LastVisitIntent I last chat
+LastVisitIntent when I last chat
+LastVisitIntent did I last chat
+LastVisitIntent when did I last chat
+LastVisitIntent we last chat
+LastVisitIntent when we last chat
+LastVisitIntent did we last chat
+LastVisitIntent when did we last chat
+LastVisitIntent I last talk
+LastVisitIntent when I last talk
+LastVisitIntent did I last talk
+LastVisitIntent when did I last talk
+LastVisitIntent we last talk
+LastVisitIntent when we last talk
+LastVisitIntent did we last talk
+LastVisitIntent when did we last talk
+NameIntent my name is {Name}
+NameIntent I'm {Name}
+NameIntent call me {Name}
+NameIntent change name {Name}
+NameIntent alter name {Name}
+NameIntent update name {Name}
+NameIntent change my name {Name}
+NameIntent alter my name {Name}
+NameIntent update my name {Name}
+NameIntent change name to {Name}
+NameIntent alter name to {Name}
+NameIntent update name to {Name}
+NameIntent change my name to {Name}
+NameIntent alter my name to {Name}
+NameIntent update my name to {Name}
+SpaceCountIntent how many people are in space
+SpaceCountIntent how many astronauts are in space
+SpaceCountIntent how many people are in outer space
+SpaceCountIntent how many astronauts are in outer space
+SpaceCountIntent how many people are on the I S S
+SpaceCountIntent how many astronauts are on the I S S
+SpaceCountIntent how many people are on the space station
+SpaceCountIntent how many astronauts are on the space station
+SpaceCountIntent how many people are on the international space station
+SpaceCountIntent how many astronauts are on the international space station
+SpaceCountIntent who's on the I S S
+SpaceCountIntent who is on the I S S
+SpaceCountIntent who's on the space station
+SpaceCountIntent who is on the space station
+SpaceCountIntent who's on the international space station
+SpaceCountIntent who is on the international space station
+SpaceWhenIntent when'll I S S be {City}
+SpaceWhenIntent when will I S S be {City}
+SpaceWhenIntent when'll the I S S be {City}
+SpaceWhenIntent when will the I S S be {City}
+SpaceWhenIntent when'll I S S visit {City}
+SpaceWhenIntent when will I S S visit {City}
+SpaceWhenIntent when'll the I S S visit {City}
+SpaceWhenIntent when will the I S S visit {City}
+SpaceWhenIntent when'll I S S fly over {City}
+SpaceWhenIntent when will I S S fly over {City}
+SpaceWhenIntent when'll the I S S fly over {City}
+SpaceWhenIntent when will the I S S fly over {City}
+SpaceWhenIntent when'll space station be {City}
+SpaceWhenIntent when will space station be {City}
+SpaceWhenIntent when'll the space station be {City}
+SpaceWhenIntent when will the space station be {City}
+SpaceWhenIntent when'll international space station be {City}
+SpaceWhenIntent when will international space station be {City}
+SpaceWhenIntent when'll the international space station be {City}
+SpaceWhenIntent when will the international space station be {City}
+SpaceWhenIntent when'll space station visit {City}
+SpaceWhenIntent when will space station visit {City}
+SpaceWhenIntent when'll the space station visit {City}
+SpaceWhenIntent when will the space station visit {City}
+SpaceWhenIntent when'll international space station visit {City}
+SpaceWhenIntent when will international space station visit {City}
+SpaceWhenIntent when'll the international space station visit {City}
+SpaceWhenIntent when will the international space station visit {City}
+SpaceWhenIntent when'll space station fly over {City}
+SpaceWhenIntent when will space station fly over {City}
+SpaceWhenIntent when'll the space station fly over {City}
+SpaceWhenIntent when will the space station fly over {City}
+SpaceWhenIntent when'll international space station fly over {City}
+SpaceWhenIntent when will international space station fly over {City}
+SpaceWhenIntent when'll the international space station fly over {City}
+SpaceWhenIntent when will the international space station fly over {City}
+SpaceWhereIntent where's I S S
+SpaceWhereIntent where is I S S
+SpaceWhereIntent where's the I S S
+SpaceWhereIntent where is the I S S
+SpaceWhereIntent where's space station
+SpaceWhereIntent where is space station
+SpaceWhereIntent where's the space station
+SpaceWhereIntent where is the space station
+SpaceWhereIntent where's international space station
+SpaceWhereIntent where is international space station
+SpaceWhereIntent where's the international space station
+SpaceWhereIntent where is the international space station
+VisitsIntent have I visited
+VisitsIntent how have I visited
+VisitsIntent many times have I visited
+VisitsIntent how many times have I visited
+VisitsIntent often have I visited
+VisitsIntent how often have I visited
+VisitsIntent have we visited
+VisitsIntent how have we visited
+VisitsIntent many times have we visited
+VisitsIntent how many times have we visited
+VisitsIntent often have we visited
+VisitsIntent how often have we visited
+VisitsIntent have I chatted
+VisitsIntent how have I chatted
+VisitsIntent many times have I chatted
+VisitsIntent how many times have I chatted
+VisitsIntent often have I chatted
+VisitsIntent how often have I chatted
+VisitsIntent have we chatted
+VisitsIntent how have we chatted
+VisitsIntent many times have we chatted
+VisitsIntent how many times have we chatted
+VisitsIntent often have we chatted
+VisitsIntent how often have we chatted
+VisitsIntent have I talked
+VisitsIntent how have I talked
+VisitsIntent many times have I talked
+VisitsIntent how many times have I talked
+VisitsIntent often have I talked
+VisitsIntent how often have I talked
+VisitsIntent have we talked
+VisitsIntent how have we talked
+VisitsIntent many times have we talked
+VisitsIntent how many times have we talked
+VisitsIntent often have we talked
+VisitsIntent how often have we talked
+VisitsIntent visit
+VisitsIntent how visit
+VisitsIntent many visit
+VisitsIntent how many visit
+VisitsIntent often visit
+VisitsIntent how often visit
+VisitsIntent I visit
+VisitsIntent how I visit
+VisitsIntent many I visit
+VisitsIntent how many I visit
+VisitsIntent often I visit
+VisitsIntent how often I visit
+VisitsIntent visits
+VisitsIntent how visits
+VisitsIntent many visits
+VisitsIntent how many visits
+VisitsIntent often visits
+VisitsIntent how often visits
+VisitsIntent I visits
+VisitsIntent how I visits
+VisitsIntent many I visits
+VisitsIntent how many I visits
+VisitsIntent often I visits
+VisitsIntent how often I visits
