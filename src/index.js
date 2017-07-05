@@ -595,12 +595,10 @@ exports.handler = ( event, context, callback ) => {
           logIt( "Successful response : " + JSON.stringify( resp ) );
           if ( callback === undefined || callback === null )
           {
-             logIt( "using context" );
              context.succeed( resp );
           }
           else
           {
-             logIt( "using callback" );
              callback( null, resp );
           }
        }
